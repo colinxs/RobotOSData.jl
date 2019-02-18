@@ -12,6 +12,7 @@ FileIO = "5789e2e9-d7fb-5bc7-8068-2c6fae9b9549"
 PyCall = "438e738f-606a-5dbb-bf0a-cddfbfd45ab0"
 RobotOS = "22415677-39a4-5241-a37a-00beabbbdae8"
 StaticArrays = "90137ffa-7385-5640-81b9-e52037218182"
+Tables = "bd369af6-aec1-5ad0-b16a-f7cc5008161c"
 Tokenize = "0796e94c-ce3b-5d07-9a54-7f471281c624"
 TranscodingStreams = "3bb67fe8-82b1-5028-8e26-92a6c54297fa"
 

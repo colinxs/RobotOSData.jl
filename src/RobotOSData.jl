@@ -17,6 +17,7 @@ include("ros/common_msgs/CommonMsgs.jl")
 include("records.jl")
 include("bag.jl")
 include("gen_msgs.jl")
+include("tables.jl")
 
 export ROSTime, ROSDuration, MessageData
 
